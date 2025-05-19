@@ -1,0 +1,5 @@
+streamlit
+torch
+kornia
+opencv-python-headless
+Pillow
